@@ -1,0 +1,903 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"icone",
+				"icone_tela"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sc",
+				"scene1"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"G",
+				"GNs"
+			],
+			[
+				"Lan",
+				"LancamentoEPS"
+			],
+			[
+				"premia",
+				"premiacoes"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bag",
+				"background"
+			],
+			[
+				"container",
+				"container_2"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"FONT-",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bal",
+				"background-color"
+			],
+			[
+				"mini",
+				"min-height"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"col",
+				"col-xs-6"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"fomr",
+				"form-control"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"cci",
+				"cci_img-1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 192,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webroot/css/style.scss",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nCompass\n-------\n\n  Congratulations! Compass Build System was installed.\n  \n  Open one of your .scss files and press CTRL + B (or Tools > Build). If you have more than one Build System that is able to compile SASS, change the Build System to Compass under Tools > Build. Happy building!\n  \n  See latest changes and updates:\n  https://github.com/whatwedo/Sublime-Text-2-Compass-Build-System/releases\n  \n  Submit bugs or ideas to:\n  https://github.com/whatwedo/Sublime-Text-2-Compass-Build-System/issues\n  \n  Further informations about the package:\n  https://github.com/whatwedo/Sublime-Text-2-Compass-Build-System/\n",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS - Compressed.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"vagr",
+				"Vagrant: Up"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"va",
+				"Vagrant: Up"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"vag",
+				"View: Toggle Minimap"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"commi",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"dest",
+				"Vagrant: Destroy && Up"
+			],
+			[
+				"vagra",
+				"Vagrant: Halt"
+			],
+			[
+				"pro",
+				"Vagrant: Provision"
+			],
+			[
+				"provis",
+				"Vagrant: Provision"
+			],
+			[
+				"vagran",
+				"Vagrant: Up"
+			],
+			[
+				"VAGRA",
+				"Vagrant: Up"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"le",
+				"Set Syntax: LESS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"vagrant",
+				"Vagrant: Halt"
+			],
+			[
+				"reload",
+				"Vagrant: Reload"
+			],
+			[
+				"Vagra",
+				"Vagrant: Up"
+			],
+			[
+				"relo",
+				"Vagrant: Reload"
+			],
+			[
+				"ha",
+				"Vagrant: Halt"
+			],
+			[
+				"halt",
+				"Vagrant: Halt"
+			],
+			[
+				"up",
+				"Vagrant: Up"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 304.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot/css/style.scss",
+		"/C/Users/Leandro Mateus/Desktop/Emails Fast Shop/2015_12_15_Lancamento/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Fast Life [GHOST]/layout-ver=1.0.0.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/index.php",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/View/Themed/Online/Estaticas/premiados.ctp",
+		"/C/Users/Leandro Mateus/Desktop/Emails Fast Shop/2015_12_15_Agradecimento/images/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/fast_life/trunk/Vagrantfile",
+		"/C/Users/Leandro Mateus/Documents/repositorios/fast_life/trunk/desenvolvimento/public_html/Config/core.php",
+		"/C/Users/Leandro Mateus/Documents/repositorios/fast_life/trunk/desenvolvimento/public_html/View/Estaticas/Pagina/campanha/casa-inteligente.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/fast_life/trunk/desenvolvimento/public_html/View/Estaticas/Pagina/campanha/brastemp.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/fast_life/trunk/desenvolvimento/public_html/View/Elements/slider.ctp",
+		"/C/Users/Leandro Mateus/Desktop/Fast Life [GOST]/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/View/Themed/Fixa/Estaticas/premiados.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Yoga900/js/scene1.js",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Yoga900/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Yoga900/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Yoga900/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Template_Tupperware/15_12/01_Vitrine_Tupper/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/View/Themed/Movel/Estaticas/premiados.ctp",
+		"/C/Users/Leandro Mateus/Desktop/teste.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/Controller/AdesoesRegulamentosController.php",
+		"/C/Users/Leandro Mateus/Desktop/Template_Tupperware/15_12/01_Tupper/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Template_Tupperware/15_12/01_Vitrine_Tupper/index2.html",
+		"/C/Users/Leandro Mateus/Desktop/Emails Fast Shop/2015_12_07_Brastemp/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/Model/Xml/Galeria/1-fixa.xml",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/View/Usuarios/recuperar_senha.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/View/Usuarios/esqueci_minha_senha.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/Controller/UsuariosController.php",
+		"/C/Users/Leandro Mateus/Desktop/Template_Tupperware/15_12/02_Tupper/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Template_Tupperware/15_12/02_Tupper/index2.html",
+		"/C/Users/Leandro Mateus/Desktop/Template_Tupperware/15_12/01_Nutrimetics/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Natura_Emails/Ciclo_15/GV/GV.html",
+		"/C/Users/Leandro Mateus/Desktop/Template_Tupperware/15_12/01_Tupper/index_2.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Yoga2/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Carbon/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G50_80/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Y700_Lenovo/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/B550/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G50_45/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Z40/js/scene1.js",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Lenovo_Yoga/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Lenovo_Yoga/preto/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Lenovo_Yoga/preto/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Lenovo_Yoga/vermelho/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Lenovo_Yoga/vermelho/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Y700_Lenovo/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Y700_Lenovo/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Yoga2/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Yoga2/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Z40/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Z40/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/B550/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/B550/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Carbon/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Carbon/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G40/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G40/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G50_45/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G50_45/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G50_80/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G50_80/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G50_80/video/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G50_80/video/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad100/single/linux/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_14/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_14/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_15/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_15/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_14/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_14/js/scene1.js",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G50_80/js/scene2.js",
+		"/C/Users/Leandro Mateus/Desktop/Emails Fast Shop/2015_11_30_FastShop/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Y700_Lenovo/js/scene1.js",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Z40/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Lenovo_Yoga - Cópia/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_Linux/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_Linux/single/linux/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_Linux/js/scene1.js",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Yoga2/js/scene1.js",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Ideapad_15/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G40/css/style.css",
+		"/C/Users/Leandro Mateus/Desktop/Assinatura/vitrine 13/Vitrine 13/Index.html",
+		"/C/Users/Leandro Mateus/Desktop/Assinatura/vitrine 12/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/G40/js/scene1.js",
+		"/C/Users/Leandro Mateus/Documents/repositorios/lenovo_build_block/trunk/desenvolvimento/Carbon/js/scene1.js",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/webroot/css/geral.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/View/Usuarios/login.ctp",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/Carbon/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/Carbon/css/style.css",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/Ideapad_14/css/style.css",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/Ideapad_14/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/Ideapad_14/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/B550/css/style.css",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/B550/single/windows/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/B550/js/scene1.js",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/B550/single/intel/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/Lenovo_Yoga/vermelho/windows/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/Lenovo_Yoga/vermelho/intel/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/Lenovo_Yoga/preto/windows/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Building_Block/Lenovo_Yoga/preto/intel/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/js/scene1.js",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/css/style.css",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/preto/intel/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/preto/windows/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/vermelho/intel/index.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/vermelho/windows/index.html",
+		"/C/Users/Leandro Mateus/Desktop/index.html",
+		"/C/Users/Leandro Mateus/Desktop/telefones.csv",
+		"/Y/Calixto/Y50libas/js/scene1.js",
+		"/C/Users/Leandro Mateus/Downloads/fonts.css",
+		"/C/Users/Leandro Mateus/Desktop/Y50libas/css/style.css",
+		"/Y/Calixto/Y50libas/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/webroot/css/default.css",
+		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Elements/Raspadinha/form_cadastro.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/Vagrantfile",
+		"/Y/Calixto/Y50libas/index.html",
+		"/Y/Calixto/Y50libas/js/scene2.js",
+		"/Y/Calixto/fcbk.ccj",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/intel_preto.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/intel_vermelho.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/win_vermelho.html",
+		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/win_preto.html",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/index.html",
+		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Themed/Havan/Pagina/premiacoes.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Themed/Kalunga/Pagina/premiacoes.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Themed/Colombo/Pagina/premiacoes.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Elements/menus/front/grupos/9.ctp",
+		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Elements/menus/front/grupos/2.ctp"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\fast_life\\trunk\\desenvolvimento\\public_html\\View",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\lenovo_build_block\\trunk\\desenvolvimento",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html\\View",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\philips_conecta\\trunk\\desenvolvimento\\public_html\\View",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\philips_conecta\\trunk\\desenvolvimento",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\philips_conecta\\trunk\\desenvolvimento\\public_html\\View",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\lenovo_hotsite_promocao\\branches\\",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\lenovo_hotsite_promocao\\branches\\2015_08",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\lenovo_hotsite_promocao\\branches\\2015_08\\desenvolvimento\\console",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html\\View",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\philips_conecta\\trunk\\desenvolvimento\\public_html",
+			"<open folders>,C:\\Users\\Leandro Mateus\\Documents\\repositorios\\philips_conecta\\trunk\\desenvolvimento\\public_html\\View",
+			"<open folders>,C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html\\View,C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html\\View",
+			"C:\\Users\\Leandro Mateus\\Documents\\repositorios\\philips_conecta\\trunk\\desenvolvimento\\public_html",
+			"<open folders>,C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html\\View,C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html\\View,C:\\Users\\Leandro Mateus\\Documents\\repositorios\\philips_conecta\\trunk\\desenvolvimento\\public_html",
+			"<open folders>,C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html\\View,C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html\\View",
+			"<open folders>,C:\\Users\\Leandro Mateus\\Documents\\repositorios\\vivo_canais_remotos\\trunk\\desenvolvimento\\public_html\\View",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	",
+			".filterMarca .cat-item-29 a",
+			"class=\"carousel-inner\"",
+			"</tr>\n                        <tr>",
+			"<td>",
+			"</td>",
+			"modos_5",
+			"_4",
+			"e4",
+			"e5",
+			"_5",
+			"e5",
+			"5",
+			" </td>",
+			" ",
+			"                       ",
+			"<td>",
+			"<td></tr></td>\n<td><tr></td>",
+			";",
+			"<td>",
+			"<td>Adalberto Bruno Meireles De Lima</td>\n        <td>Adrienne De Souza Fernandes</td>\n        <td>Adson Pereira Da Silva</td>",
+			"	",
+			"Em breve",
+			"Do",
+			"De",
+			"Da",
+			"Santos",
+			"do",
+			"Do",
+			"do",
+			"Do",
+			"Dos",
+			"Da",
+			"da",
+			"Da",
+			"da",
+			"Da",
+			"da",
+			"Da",
+			"De",
+			"	",
+			" ",
+			"mb.jpg",
+			"Por favor preencha os campos abaixo para redefinir sua senha",
+			"CLIQUE E CONFIRA",
+			"icone_modos",
+			"icone_modos3",
+			"foto_4",
+			"<div class=\"call-to-action\">\n				<a href=\"#\">CLIQUE E CONFIRA</a>\n			</div>",
+			"5",
+			">\n",
+			"Yoga_900",
+			"3",
+			"5",
+			"nota",
+			"3",
+			"Esqueci minha senha",
+			"Caso tenha dúvidas",
+			"O CPF não está cadastrado.",
+			"jbl",
+			".text_",
+			";\n",
+			"modos_2",
+			"ou",
+			";\n",
+			".header",
+			"disposito",
+			"<br />",
+			"scene1",
+			"<br />",
+			"Aline de Pinho Romero",
+			"11998257994",
+			"21970259628",
+			"video",
+			"e4",
+			"_3",
+			"e3",
+			"raspadinha",
+			"Insira sua raspadinha",
+			"red",
+			"black",
+			"185px",
+			"black",
+			"FAQ / Fale conosco",
+			";F",
+			";\n",
+			"termo de aceite",
+			"termos de aceite",
+			"id",
+			"prorrogada até",
+			"A Campanha foi prorrogada até 31 de outubro de 2015",
+			"A Campanha foi prorrogada até 31 de outubro de 2015.",
+			"</tr><tr>",
+			"</td></tr><tr>",
+			"Pina",
+			"<div class=\"panel-heading\">Premiados</div>",
+			"img",
+			"td width=\"230\"",
+			"align=\"center\" width=\"500\" height=\"\"",
+			"td width=\"240\"",
+			"td width=\"250\"",
+			"td width=\"260\"",
+			"width=\"500\" height=\"\" border=\"0\" cellpadding=\"0\"",
+			"width=\"520\" height=\"\"",
+			"width=\"500\" height=\"\" border=\"0\" cellpadding=\"0\"",
+			"r\" width=\"520\" hei",
+			"Etiam finibus lorem eu ligula",
+			"termo de aceite",
+			"JPG",
+			"aceite",
+			"termos de aceite",
+			"</thumb>",
+			"thumb",
+			"<thumb>img/",
+			"<url>img/",
+			"LancamentoGNs/",
+			"LancamentoEPS/vikstar/",
+			"/uranet/",
+			"/unitono/",
+			"/flex_ipiranga/",
+			"/atento/",
+			"/almaviva/",
+			"EPS/almaviva/0",
+			"/img/galeria/massivo/thumb/",
+			"/img/galeria/massivo/img/",
+			"/thumb/",
+			"img/galeria/massivo/",
+			"3387145383"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"td width=\"240\"",
+			"align=\"center\" width=\"520\" height=\"\"",
+			"td width=\"230\"",
+			"td width=\"240\"",
+			"td width=\"250\"",
+			"width=\"500\" height=\"\" border=\"0\" cellpadding=\"10\"",
+			"width=\"500\" height=\"\"",
+			"width=\"500\" height=\"\" border=\"0\" cellpadding=\"10\"",
+			"r\" width=\"500\" hei",
+			"<thumb>/img/",
+			"<url>/img/",
+			"LancamentoMaksoud/",
+			"LancamentoGNs/",
+			"/vikstar/",
+			"/uranet/",
+			"/unitono/",
+			"/flex_ipiranga/",
+			"/atento/",
+			"EPS/atento/0",
+			"img/galeria/fixa/LancamentoEPS/almaviva/",
+			"/",
+			"img/galeria/fixa/LancamentoEPS/almaviva/",
+			"",
+			"casainteligente.provisorio.ws"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webroot/css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 141.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
