@@ -393,4 +393,72 @@ $gray_dark: #222222;
 .post-list {
 	margin: 0;
 	padding: 0;
+	h3 a {
+		color: $blue;
+	}
+	p {
+		border-bottom: 1px solid $gray_light;
+		padding-bottom: 10px;
+		margin-bottom: 20px;
+	}
+}
+
+
+/*Responsivo*/
+.responsive_menu {
+	border: 0 none;
+	box-shadow: none;
+	margin-bottom: 0;
+	.navbar-header .navbar-brand {
+		font-family: "Droid Sans", sans-serif;
+		font-size: 30px;
+		color: $blue;
+		text-shadow: 3px 5px 0px rgba(0,0,0,0.1);
+	}
+}
+.mark_responsive_menu {
+	width: 100%;
+	height: 10px;
+	background: #cc333f;
+	background: -moz-linear-gradient(left,  #cc333f 7%, #edc951 100%);
+	background: -webkit-linear-gradient(left,  #cc333f 7%,#edc951 100%);
+	background: linear-gradient(to right,  #cc333f 7%,#edc951 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc333f', endColorstr='#edc951',GradientType=1 );
+}
+@media screen and (max-width: 767px) {
+	.page {
+		padding: 20px;
+		display: block;
+		.container_full, .sidebar {
+			width: 100%;
+		}
+		.container_full_width {
+			h1 {
+				font-size: 28px;
+				line-height: 35px;
+			}
+			h2 {
+				font-size: 16px;
+			}
+			.highlights {
+				margin-top: 20px;
+				display: block;
+				aside {
+					width: 100%;
+				}
+			}
+		}
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+	.page .container_full_width {
+			.highlights {
+				margin-top: 60px;
+				flex-wrap: wrap;
+				aside {
+					width: 50%;
+				}
+			}
+		}
 }
