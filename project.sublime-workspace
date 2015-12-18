@@ -4,8 +4,52 @@
 		"selected_items":
 		[
 			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"gra",
+				"gray_dark"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
 				"bac",
-				"background-position"
+				"background"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"backgoun",
+				"background"
 			],
 			[
 				"ma",
@@ -22,10 +66,6 @@
 			[
 				"icone",
 				"icone_tela"
-			],
-			[
-				"text",
-				"text-align"
 			],
 			[
 				"sc",
@@ -76,24 +116,12 @@
 				"padding-right"
 			],
 			[
-				"font",
-				"font-size"
-			],
-			[
-				"pad",
-				"padding"
-			],
-			[
 				"wi",
 				"width"
 			],
 			[
 				"max-",
 				"max-width"
-			],
-			[
-				"fon",
-				"font-weight"
 			],
 			[
 				"bag",
@@ -128,10 +156,6 @@
 				"min-height"
 			],
 			[
-				"pa",
-				"padding"
-			],
-			[
 				"col",
 				"col-xs-6"
 			],
@@ -164,30 +188,51 @@
 	"buffers":
 	[
 		{
+			"file": "blog.html",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 192,
-				"line_ending": "Windows"
+				"buffer_size": 1250,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 459,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "webroot/css/style.scss",
 			"settings":
 			{
-				"buffer_size": 70,
+				"buffer_size": 6433,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "Package Control Messages\n========================\n\nCompass\n-------\n\n  Congratulations! Compass Build System was installed.\n  \n  Open one of your .scss files and press CTRL + B (or Tools > Build). If you have more than one Build System that is able to compile SASS, change the Build System to Compass under Tools > Build. Happy building!\n  \n  See latest changes and updates:\n  https://github.com/whatwedo/Sublime-Text-2-Compass-Build-System/releases\n  \n  Submit bugs or ideas to:\n  https://github.com/whatwedo/Sublime-Text-2-Compass-Build-System/issues\n  \n  Further informations about the package:\n  https://github.com/whatwedo/Sublime-Text-2-Compass-Build-System/\n",
+			"file": "webroot/css/bootstrap.min.css",
 			"settings":
 			{
-				"buffer_size": 664,
-				"line_ending": "Windows",
-				"name": "Package Control Messages",
-				"read_only": true,
-				"scratch": true
+				"buffer_size": 122315,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webroot/css/bootstrap-theme.min.css",
+			"settings":
+			{
+				"buffer_size": 24386,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -382,12 +427,29 @@
 	"expanded_folders":
 	[
 		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_includes",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_layouts",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_posts",
 		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot",
-		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot/css"
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot/css",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot/img"
 	],
 	"file_history":
 	[
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_config.yml",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_layouts/page.html",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_layouts/default.html",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_posts/2015-12-16-welcome-to-jekyll.markdown",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_includes/header.html",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/index_2.html",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot/js/base.js",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_includes/footer.html",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/_includes/head.html",
+		"/C/Users/Leandro Mateus/Downloads/icomoon/style.css",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot/css/style.css",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/config.rb",
 		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot/css/style.scss",
+		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/webroot/css/style.sass",
 		"/C/Users/Leandro Mateus/Desktop/Emails Fast Shop/2015_12_15_Lancamento/index.html",
 		"/C/Users/Leandro Mateus/Desktop/Fast Life [GHOST]/layout-ver=1.0.0.css",
 		"/C/Users/Leandro Mateus/Documents/repositorios/vivo_canais_remotos/trunk/desenvolvimento/public_html/index.php",
@@ -501,20 +563,7 @@
 		"/Y/Calixto/Y50libas/css/style.css",
 		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/webroot/css/default.css",
 		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Elements/Raspadinha/form_cadastro.ctp",
-		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/Vagrantfile",
-		"/Y/Calixto/Y50libas/index.html",
-		"/Y/Calixto/Y50libas/js/scene2.js",
-		"/Y/Calixto/fcbk.ccj",
-		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/intel_preto.html",
-		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/intel_vermelho.html",
-		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/win_vermelho.html",
-		"/C/Users/Leandro Mateus/Desktop/Lenovo_Yoga/win_preto.html",
-		"/C/Users/Leandro Mateus/Documents/GitHub/pauloklixto.github.io/index.html",
-		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Themed/Havan/Pagina/premiacoes.ctp",
-		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Themed/Kalunga/Pagina/premiacoes.ctp",
-		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Themed/Colombo/Pagina/premiacoes.ctp",
-		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Elements/menus/front/grupos/9.ctp",
-		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/desenvolvimento/public_html/View/Elements/menus/front/grupos/2.ctp"
+		"/C/Users/Leandro Mateus/Documents/repositorios/philips_conecta/trunk/Vagrantfile"
 	],
 	"find":
 	{
@@ -552,6 +601,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<a class=\"btn",
+			".btn-prima",
+			"text",
+			"fonts/",
+			"'fonts/ico",
 			"	",
 			".filterMarca .cat-item-29 a",
 			"class=\"carousel-inner\"",
@@ -674,12 +728,7 @@
 			"/flex_ipiranga/",
 			"/atento/",
 			"/almaviva/",
-			"EPS/almaviva/0",
-			"/img/galeria/massivo/thumb/",
-			"/img/galeria/massivo/img/",
-			"/thumb/",
-			"img/galeria/massivo/",
-			"3387145383"
+			"EPS/almaviva/0"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -727,19 +776,49 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "blog.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 192,
+						"buffer_size": 514,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								111,
-								111
+								514,
+								514
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1159,
+								1159
 							]
 						],
 						"settings":
@@ -747,35 +826,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "webroot/css/style.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 70,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								44,
-								44
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 484.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -783,32 +834,117 @@
 				},
 				{
 					"buffer": 2,
+					"file": "_includes/header.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 664,
+						"buffer_size": 459,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								66,
-								66
+								387,
+								387
 							]
 						],
 						"settings":
 						{
-							"auto_indent": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_width": 2,
-							"word_wrap": true
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "webroot/css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6267,
+								6267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7681.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "webroot/css/bootstrap.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 10.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "webroot/css/bootstrap-theme.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 170.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -847,13 +983,13 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 141.0
+		"height": 85.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
 	"project": "project.sublime-project",
 	"replace":
 	{

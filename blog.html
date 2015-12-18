@@ -1,0 +1,22 @@
+---
+layout: default
+title: Calixto
+---
+
+<div class="home">
+
+  <h2 class="page-heading">Posts</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+	    <h3>
+	      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	    </h3>
+	    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	    <p>{{ post.description }}</p>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">Assinar <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+
+</div>
