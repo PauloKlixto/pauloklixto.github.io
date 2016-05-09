@@ -9,28 +9,12 @@
 
     <section class="page">
       <section class="container_full">
-        <article class="post blog">
+        <article class="post {{ page.id }}">
           {{ content }}
         </article>
       </section>
       
       <section class="sidebar">
-        <aside class="comments">
-          <h3>Discussão</h3>
-          <div id="disqus_thread"></div>
-          <script>
-          (function() { // DON'T EDIT BELOW THIS LINE
-          var d = document, s = d.createElement('script');
-
-          s.src = '//calixto.disqus.com/embed.js';
-
-          s.setAttribute('data-timestamp', +new Date());
-          (d.head || d.body).appendChild(s);
-          })();
-          </script>
-          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-        </aside>
-        
         <aside class="twitter">
           <h3>Twitter</h3>
           <a class="twitter-timeline" href="https://twitter.com/PauloKlixto" data-widget-id="677887559020752896">Tweets de @PauloKlixto</a>
