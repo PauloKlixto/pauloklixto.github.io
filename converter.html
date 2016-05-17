@@ -1,0 +1,39 @@
+---
+layout: page-with-sidebar
+title: Conversor de moedas
+id: blog
+---
+<div class="home">
+	<h2 class="page-heading">Conversor de moedas</h2>
+	<p>Conversor em tempo real integrado a moeda brasileira e americana</p>
+</div>
+
+<form action="http://free.currencyconverterapi.com/api/v3/convert?q=BRL_USD&compact=y">
+		<input id="CURR_FR_VAL" name="CURR_FR_VAL" type="text"></input>
+		<input type="submit" value="Converter"></input>
+		<span id="resultado"></span>
+</form>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+  
+	  $("form").on("submit", function(e){
+	    e.preventDefault();
+	    $.ajax({
+	      type: "GET",
+	      url: $(this).attr("action"),
+	      success: function(response) {
+	        var val = response.BRL_USD.val;
+	        var result = $("#CURR_FR_VAL").val() * val;
+	        $("#resultado").text("$ " + result.toFixed(2));
+	      },
+	      dataType: 'jsonp'
+	    });
+	  });
+  
+});
+</script>
+
+
